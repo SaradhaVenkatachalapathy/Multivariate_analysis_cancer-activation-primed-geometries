@@ -28,7 +28,5 @@ Breifly, our study established the existence of activation primed cell shapes an
 <img src='results.png' height='200' width='400'><br/>
 </p>
 
-<br/>
 For more details visit [our paper](https://www.molbiolcell.org/doi/full/10.1091/mbc.E19-08-0420).  
-<br/>
 
