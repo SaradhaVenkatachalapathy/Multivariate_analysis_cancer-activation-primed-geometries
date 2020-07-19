@@ -13,19 +13,22 @@ In this study, we compute multiple features that decribe nuclear morphology and 
 
 <br/>
 <p align="center">
-<img src='approach.png' height='150' width='300'><br/>
+<img src='approach.png' height='150' width='400'><br/>
 </p>
 
 <br/>
 <p align="center">
-<img src='Image_features.png' height='150' width='300'><br/>
+<img src='Image_features.png' height='300' width='400'><br/>
 </p>
 
 Breifly, our study established the existence of activation primed cell shapes and demonstrated a causal relationship between cell geometry and activation. 
 
 <br/>
 <p align="center">
-<img src='results.png' height='150' width='200'><br/>
+<img src='results.png' height='200' width='400'><br/>
 </p>
 
+<br/>
+For more details visit [our paper](https://www.molbiolcell.org/doi/full/10.1091/mbc.E19-08-0420).  
+<br/>
 
