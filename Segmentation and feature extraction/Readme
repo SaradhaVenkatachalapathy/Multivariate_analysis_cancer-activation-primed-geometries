@@ -1,1 +1,3 @@
-Imagej and MATLAB scripts
+Imagej and MATLAB scripts that were used for segmentaiton and feature extraction. 
+
+To read and combine all the data in R use "extract data.R"
