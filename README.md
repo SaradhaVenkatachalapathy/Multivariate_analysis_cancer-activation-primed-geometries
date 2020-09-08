@@ -30,3 +30,8 @@ Breifly, our study established the existence of activation primed cell shapes an
 
 For more details visit [our paper](https://www.molbiolcell.org/doi/full/10.1091/mbc.E19-08-0420).  
 
+Please cite our paper if you are using this code in your research.
+
+Venkatachalapathy, Saradha, Doorgesh Sharma Jokhun, and G. V. Shivashankar. "Multivariate analysis reveals activation-primed fibroblast geometric states in engineered 3D tumor microenvironments." Molecular Biology of the Cell 31, no. 8 (2020): 803-812.
+
+
